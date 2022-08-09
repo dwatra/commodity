@@ -1,0 +1,16 @@
+{
+    "name": "adw/adw-worker",
+    "description": "worker for iproc",
+    "authors": [
+        {
+            "name": "dwatra",
+            "email": "dwatra23@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Adw\\AdwWorker\\": "src/"
+    	}
+    }
+}
